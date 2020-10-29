@@ -6,4 +6,4 @@ on:
 
 jobs:
   build:
-    runs-on: ubantu-latest
+    runs-on: ubuntu-latest
